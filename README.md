@@ -52,8 +52,8 @@ With this app, users can:
 |--------------|----------------|
 | ![Login](LoginScreen.jpg) | ![SignUp](SignUpScreen.jpg) |
 
-| Welcome | Features | Privacy & Terms |
-|---------|----------|-----------------|
+| Welcome | Features |
+|---------|----------|
 | ![Welcome](welcome.jpg) | ![Features](features.jpg) | 
 
 | Quiz Screen | Quiz Question | Quiz Completion |
