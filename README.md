@@ -58,7 +58,7 @@ With this app, users can:
 
 | Quiz Screen | Quiz Question | Quiz Completion |
 |-------------|---------------|-----------------|
-| ![Quiz](QuizScreen.jpg) | ![Question](QuizQuestion.jpg) | ![Completion](QuizCompletion.jpg) |
+| ![Quiz](QuizScreen.jpg) | ![Question](QuizQuesion.jpg) | ![Completion](QuizCompletion.jpg) |
 
 | Task Manager | Chat Screen | Profile Screen |
 |--------------|-------------|----------------|
