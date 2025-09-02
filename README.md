@@ -54,7 +54,8 @@ With this app, users can:
 
 | Welcome | Features | Privacy & Terms |
 |---------|----------|-----------------|
-| ![Welcome](welcome.jpg) | ![Features](features.jpg) | ![Privacy](privacy and terms.jpg) |
+| ![Welcome](welcome.jpg) | ![Features](features.jpg) | 
+  ![Privacy](privacy and terms.jpg) |
 
 | Quiz Screen | Quiz Question | Quiz Completion |
 |-------------|---------------|-----------------|
